@@ -11,6 +11,5 @@ I hope you enjoy using the application :)
 ![SimpleUETestNetwork](https://github.com/user-attachments/assets/4c838c3f-79d3-4070-9001-4ce02996fa54)
 
 
-![2-Algorithms_Page](https://github.com/user-attachments/assets/fff270dc-07ad-4642-96ce-498d31ba5efc)
-
+![2-Algorithms_Page](https://github.com/user-attachments/assets/2d5fdceb-53eb-4f46-b9d3-ddccf7b756bf)
 
